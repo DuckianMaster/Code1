@@ -26,6 +26,10 @@ integrated Git control. It is highly customizable through extensions.
 Extensions enhance the functionality of Visual Studio Code, enabling 
 additional features like language support, debugging tools, and version 
 control integration. They are available from the Visual Studio Code 
+
+
+
+I've learned how to create a repository,create a markup file and the basics of Github navigation.
 Marketplace and can be easily installed and managed within the editor.
 
  ESLint
