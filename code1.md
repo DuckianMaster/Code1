@@ -53,4 +53,8 @@ representation of your Git repository. It allows developers to see
 branches, commits, and the relationship between them, making it
 easier to manage and understand the history and structure of the project.
 
-AMOGUSAMOGUSAMOGUS
+I've learned how to create a repository,create a markup file and the basics of Github navigation.
+Marketplace and can be easily installed and managed within the editor.
+
+18.6
+today i leraned very little again because the "lessons" are dogshit and i could just have stayed home
