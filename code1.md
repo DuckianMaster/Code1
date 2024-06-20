@@ -5,7 +5,6 @@
  
  
  
- scheißescheiße
  
  Git
 Git is a distributed version control system used to track changes in source code
@@ -35,10 +34,6 @@ integrated Git control. It is highly customizable through extensions.
 Extensions enhance the functionality of Visual Studio Code, enabling 
 additional features like language support, debugging tools, and version 
 control integration. They are available from the Visual Studio Code 
-
-
-
-I've learned how to create a repository,create a markup file and the basics of Github navigation.
 Marketplace and can be easily installed and managed within the editor.
 
  ESLint
@@ -52,6 +47,10 @@ Git Graph is a Visual Studio Code extension that provides a visual
 representation of your Git repository. It allows developers to see
 branches, commits, and the relationship between them, making it
 easier to manage and understand the history and structure of the project.
+
+I've learned how to create a repository,create a markdown file and the basics of Github navigation.
+Also i can change the contents of a website which is also some very useless.
+
 
 I've learned how to create a repository,create a markup file and the basics of Github navigation.
 Marketplace and can be easily installed and managed within the editor.
