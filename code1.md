@@ -55,5 +55,4 @@ Also i can change the contents of a website which is also some very useless.
 I've learned how to create a repository,create a markup file and the basics of Github navigation.
 Marketplace and can be easily installed and managed within the editor.
 
-18.6
-today i leraned very little again because the "lessons" are dogshit and i could just have stayed home
+I created a website which generates shapes with random color and position.
