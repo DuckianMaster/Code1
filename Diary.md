@@ -56,3 +56,5 @@ I've learned how to create a repository,create a markup file and the basics of G
 Marketplace and can be easily installed and managed within the editor.
 
 I created a website which generates shapes with random color and position.
+
+Today we are coding a html connect 4 game.
