@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random DOM Elements</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .random-element {
+            position: absolute;
+            padding: 4px;
+            font-size: 10px;
+            border: 1px solid #000;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * max);
+        }
+
+        function getRandomColor() {
+            return '#' + Math.floor(Math.random() * 16777215).toString(16);
+        }
+
+        function createRandomElement() {
+            const elementTypes = ['div', 'span', 'p', 'button'];
+            const element = document.createElement(elementTypes[getRandomInt(elementTypes.length)]);
+            element.className = 'random-element';
+            element.style.left = getRandomInt(window.innerWidth) + 'px';
+            element.style.top = getRandomInt(window.innerHeight) + 'px';
+            element.style.backgroundColor = getRandomColor();
+            element.style.color = getRandomColor();
+            element.textContent = '!';
+            document.body.appendChild(element);
+        }
+
+        for (let i = 0; i < getRandomInt(500) + 50000; i++) {
+            createRandomElement();
+        }
+    </script>
+</body>
+</html>

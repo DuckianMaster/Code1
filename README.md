@@ -10,3 +10,18 @@
     <p>https://github.com/JirkaDellOro/Code1/tree/main/Lecture</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html></html>
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport"content=>
+    <title>Document</title>
+    <script src="Dom.ts" defer></script>
+</head>
+<body>
+    <span id="idAye">Aye</span>
+</body>
+
+</html> 10)
